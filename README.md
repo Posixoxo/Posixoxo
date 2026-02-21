@@ -1,16 +1,25 @@
-## Hi there 👋
+Hi, I'm Mayowa Akomolafe 👋
+Mobile Developer | Frontend Engineer
+I am a disciplined Mobile Developer transitioning from a background in Brand Communications into full-stack development. I focus on building clean, functional interfaces and writing maintainable code for real-world production.
 
-<!--
-**Posixoxo/Posixoxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📱 Focus: Building cross-platform mobile apps with React Native.
 
-Here are some ideas to get you started:
+🛠️ Core Skills: JavaScript (ES6+), React, CSS/HTML.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎨 Design-Aware: Experienced with Figma and user experience principles.
+
+⚡ Professional Discipline: 4+ years of remote work experience with a consistent power and internet setup.
+
+🚀 Technical Stack
+Languages: JavaScript, HTML5, CSS3
+
+Frameworks: React Native, React.js
+
+Tools: Git/GitHub, Figma, VS Code, Claude Code
+
+Soft Skills: Technical Writing, Brand Strategy, Team Collaboration
+
+📈 Current Goal
+I am looking to contribute to high-impact projects at Tactology Global where I can ship code, solve complex UI challenges, and grow into a full-time engineering role.
+
+📫 Connect with me:  |
