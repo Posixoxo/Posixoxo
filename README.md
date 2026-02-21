@@ -21,6 +21,6 @@ Tools: Git/GitHub, Figma, VS Code, Claude Code
 Soft Skills: Technical Writing, Brand Strategy, Team Collaboration
 
 📈 Current Goal
-I am looking to contribute to high-impact projects at Tactology Global where I can ship code, solve complex UI challenges, and grow into a full-time engineering role.
+I am looking to contribute to high-impact projects where I can ship code, solve complex UI challenges, and grow into a full-time engineering role.
 
 📫 Connect with me:  |
