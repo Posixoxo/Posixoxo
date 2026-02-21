@@ -1,4 +1,4 @@
-Hi 👋, I'm Mayowa Akomolafe 
+Hi 👋, I'm Akomolafe MMayowa
 Mobile Developer | Frontend Engineer
 
 I am a disciplined Mobile Developer transitioning from a background in Brand Communications into full-stack development. I focus on building clean, functional interfaces and writing maintainable code for real-world production.
